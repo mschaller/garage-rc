@@ -6,7 +6,7 @@
 
 | PIN | DESC     | DESC | PIN |
 |-----|----------|------|-----|
-| 1   | floating | VCC  | 8   |
+| 1   | n/c      | VCC  | 8   |
 | 2   | RF_ENAB  | SW1  | 7   |
 | 3   | RF_DATA  | SW2  | 6   |
 | 4   | GND      | LED  | 5   |
